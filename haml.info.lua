@@ -3,4 +3,4 @@ a(_a, "50.116.17.75")
 
 -- CNAME records
 cname("www", _a)
-cname("blog", haml.tumblr.com)
+cname("blog", "haml.tumblr.com")
